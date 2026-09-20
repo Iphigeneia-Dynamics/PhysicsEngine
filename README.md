@@ -4,7 +4,7 @@ A physics engine focused on simulating classical mechanics and rigid body dynami
 
 ## Overview
 
-This project aims to develop a physics engine from the ground up, implementing the fundamental principles of Newtonian mechanics. The lonterm goal is to provide a modular and extensible framework for physical simulations, educational experiments, and real-time applications.
+This project aims to develop a physics engine from the ground up, implementing the fundamental principles of Newtonian mechanics. The long-term goal is to provide a modular and extensible framework for physical simulations, educational experiments, and real-time applications.
 
 ## Features
 
@@ -51,5 +51,5 @@ The engine is designed around the principles of classical mechanics:
 
 This project is licensed under the MIT License.
 
-## Author 
+## Authors
 Vid Somun and Lars Wedemeyer
