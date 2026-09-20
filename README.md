@@ -55,6 +55,10 @@ The engine is designed around the principles of classical mechanics:
 * Create clean and well-documented code.
 * Explore simulation techniques used in game engines and robotics.
 
+## Technologies
+
+C++
+
 ## References
 
 ## License
