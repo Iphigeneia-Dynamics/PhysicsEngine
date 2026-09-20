@@ -12,6 +12,15 @@ This project aims to develop a physics engine from the ground up, implementing t
 
 ### Planned
 
+* 2D Plane
+* Homogeneous gravitational field with adjustable gravity
+* Spawnable objects with adjustable mass and volume
+* Forces that can be applied to objects
+* Flight path calculation
+* Object collision
+* Rotation
+* Friction
+
 ## Project Structure
 
 ## Physics Concepts
@@ -19,6 +28,7 @@ This project aims to develop a physics engine from the ground up, implementing t
 The engine is designed around the principles of classical mechanics:
 
 * Newton's Laws of Motion
+* Homogeneous Gravitational Field
 * Linear Momentum
 * Angular Momentum
 * Conservation Laws
